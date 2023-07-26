@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main {
+public class DoWhile {
     public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
       String input = "";
